@@ -15,7 +15,7 @@ Busco aprender sobre áreas que desconheço e desenvolver minhas habilidades na 
 
 ## 📞 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vieira-dos-santos-29ab42376)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasvieira031607@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lucasvieira031607@gmail.com)
 
 ---
 
