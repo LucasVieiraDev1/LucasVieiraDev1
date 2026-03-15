@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Vieira 👋🏾
 
-Sou estudante de programação da ETEC, atualmente focado em estudar Python, JavaScript e C#.  
+Sou estudante de Desenvolvimento de sistemas da ETEC, atualmente focado em estudar Python, JavaScript e C#.  
 Busco aprender sobre áreas que desconheço e desenvolver minhas habilidades na programação.
 
 ---
